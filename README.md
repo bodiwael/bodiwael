@@ -32,6 +32,6 @@
 
 </a>
 
-<img align="left" alt="codeSTACKr's Github Stats" src="github-readme-stats-mh672it78-bodiwaels-projects.vercel.app/api?username-bodiwael&show_icons-true&hide_border-true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="github-readme-stats-mh672it78-bodiwaels-projects.vercel.app" />
 
 <br>
