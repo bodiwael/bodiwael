@@ -1,5 +1,15 @@
 ## Hello EveryOne👋
 
+
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently Studying at **Egypt STEM Schools**
+- 🌱 &nbsp; I’m currently learning Deep Learning & Algorithms; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abdelrahman-wael-ammar/)
+
+
 <br>
 
 ### 🔨 Languages and Tools:
