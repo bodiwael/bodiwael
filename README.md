@@ -27,7 +27,7 @@
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
 
   
-[![Anurag's GitHub stats](https://github-readme-stats-mh672it78-bodiwaels-projects.vercel.app/api?username=bodiwael)](https://github.com/bodiwael/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodiwael)](https://github.com/bodiwael/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bodiwael&layout=donut-vertical)](https://github.com/bodiwael/github-readme-stats)
 
 </a>
