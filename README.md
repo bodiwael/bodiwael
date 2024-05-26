@@ -4,8 +4,8 @@
 ### 🧐 More About Me:
 
 🤖 Computer Science & Image Processing Instructor @ EME Innovation Hub | 🎓 Egypt STEM School S'24 
-🏆 Internationally First in IEEE YESIST12 Junior Einstein | 🧠 Machine Learning Specialist 
-🥈 ISEF'24 National 2nd Place | 🥈 ISEF'23 National 2nd Place | 👨‍💼 Mentor @ Alamain Robotics Champion'22
+| 🏆 Internationally First in IEEE YESIST12 Junior Einstein | 🧠 Machine Learning Specialist 
+| 🥈 ISEF'24 National 2nd Place | 🥈 ISEF'23 National 2nd Place | 👨‍💼 Mentor @ Alamain Robotics Champion'22
 
 <br>
 
