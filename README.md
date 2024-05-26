@@ -32,7 +32,7 @@
 
 </a>
 
-<a href="github-readme-stats-r6nh-git-master-bodiwaels-projects.vercel.app">
+<a href="github-readme-stats-r6nh.vercel.app">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bodiwael" />
 </a>
 
