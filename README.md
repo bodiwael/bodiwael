@@ -2,15 +2,10 @@
 
 
 ### 🧐 More About Me:
-🤖 Computer Science & Image Processing Instructor | 🎓 Egypt STEM S'24 | 🏆 Internationally First in IEEE YESIST12 Junior Einstein | 🧠 Machine Learning Specialist | 🥈 ISEF'24 National 2nd Place | 👨‍💼 Mentor @ ARC '22
-- 🔭 &nbsp; I’m currently Studying at **Egypt STEM Schools**
-- 🌱 &nbsp; I’m currently learning Deep Learning & Algorithms; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bodiwael?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abdelrahman-wael-ammar/)
 
-
-
+🤖 Computer Science & Image Processing Instructor @ EME Innovation Hub | 🎓 Egypt STEM School S'24 
+🏆 Internationally First in IEEE YESIST12 Junior Einstein | 🧠 Machine Learning Specialist 
+🥈 ISEF'24 National 2nd Place | 🥈 ISEF'23 National 2nd Place | 👨‍💼 Mentor @ Alamain Robotics Champion'22
 
 <br>
 
