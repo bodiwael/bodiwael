@@ -28,12 +28,9 @@
 
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodiwael)](https://github.com/bodiwael/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bodiwael&layout=donut-vertical)](https://github.com/bodiwael/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bodiwael&layout=compact)
 
-</a>
 
-<a href="github-readme-stats-r6nh-inlgw7i7r-bodiwaels-projects.vercel.app">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bodiwael" />
 </a>
 
 <br>
