@@ -2,7 +2,7 @@
 
 
 ### 🧐 More About Me:
-
+🤖 Computer Science & Image Processing Instructor | 🎓 Egypt STEM S'24 | 🏆 Internationally First in IEEE YESIST12 Junior Einstein | 🧠 Machine Learning Specialist | 🥈 ISEF'24 National 2nd Place | 👨‍💼 Mentor @ ARC '22
 - 🔭 &nbsp; I’m currently Studying at **Egypt STEM Schools**
 - 🌱 &nbsp; I’m currently learning Deep Learning & Algorithms; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bodiwael?tab=repositories)
