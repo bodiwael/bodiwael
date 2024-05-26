@@ -9,10 +9,10 @@
 
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/bodiwael/github-stats-transparent'>
 
   
-| <a href="https://github.com/bodiwael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bodiwael&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/bodiwael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodiwael&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/bodiwael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bodiwael&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abdelrahman's github stats" /></a> | <a href="https://github.com/bodiwael/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodiwael&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
