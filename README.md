@@ -27,7 +27,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=bodiwael&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 ---
 
-### ✍️ Day's Devoloper Quote
+### ✍️ Day's Devoloper Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
