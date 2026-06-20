@@ -1,6 +1,6 @@
 ## Hi, I'm Abdelrahman Wael Ammar 👋
 
-🤖 Computer Science & Image Processing Instructor @ EME Innovation Hub | 🎓 Egypt STEM School S'24 | 🏆 Internationally First in IEEE YESIST12 Junior Einstein | 🧠 Machine Learning Specialist | 🥈 ISEF'24 National 2nd Place | 🥈 ISEF'23 National 2nd Place | 👨‍💼 Mentor @ Alamain Robotics Champion'22 | 👀 Computer Vision Member @ Torpedo ROV Team | 🎙️Speaker @ IEEE YESIST12 Alumini Commity | 🖊️ Arduino & IoT Professional 
+Biomedical & Bioinformatics Engineering || E-JUST
 
 <br>
 
